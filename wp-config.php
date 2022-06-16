@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wordpressdb' );
 define( 'DB_USER', 'RohitSquare' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Rohit8521859170' );
+define( 'DB_PASSWORD', 'password_here' );
 
 /** Database hostname */
 define( 'DB_HOST', 'rohitsquaredb.cfdyrms3ajre.ap-south-1.rds.amazonaws.com' );
