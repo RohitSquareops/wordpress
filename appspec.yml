@@ -3,6 +3,7 @@ os: linux
 files:
   - source: /
     destination: /var/www/rohitsingh.squareops.co.in
+    overwrite: true
 
 hooks:
   BeforeInstall:
