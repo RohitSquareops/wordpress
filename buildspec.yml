@@ -19,7 +19,7 @@ phases:
    build:
      commands:
         - sed -i 's/password_here/'$DB_PASSWORD'/' wp-config.php
-        - prientenv
+       
 
 artifacts:
   files:
