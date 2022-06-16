@@ -4,7 +4,7 @@ run-as: root
 
 env:
   parameter-store:
-            DB_PASSWORD: "/RohitSquare/DB_PASSWORD"
+            DB_PASSWORD: "/DB_PASSWORD"
 
 phases:
    pre_build:
